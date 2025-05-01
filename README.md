@@ -1,4 +1,4 @@
-Crown copyright (c), 2021-2024
+Crown copyright (c), 2021-2025
 
 ## SAPIENT BSI Flex 335 v2 Test Harness
 This software is a tool for developers of [SAPIENT](https://www.gov.uk/guidance/sapient-autonomous-sensor-system) 
@@ -43,7 +43,7 @@ from a clean copy of the software should any difficulties be experienced, partic
 network connections of components being tested.
 
 ## Limitations
-This version (5.2.3) of the SAPIENT Test Harness is only compatibile with the BSI Flex 335 version 2 
+This version (5.2.4) of the SAPIENT Test Harness is only compatibile with the BSI Flex 335 version 2 
 of SAPIENT. The test harness is not capable of testing earlier versions of SAPIENT. Although SAPIENT
 components can be developed/run on a platform of the developers choice, the test harness software
 only runs on Microsoft Windows platforms.
