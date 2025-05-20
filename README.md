@@ -60,6 +60,16 @@ be an issue that affected legacy versions of the software and has not been fixed
 3.) Alert Response messages are not logged to the SQL database. This is beleived to be an issue that 
 affected legacy versions of the software and has not been fixed in this release.
 
+4.) The test harness should be run computers with an English (UK / US) locale. The formatting of 
+numbers when the test harness is run non-English locales may result in errors, for example '0.3' 
+could get formatted as '0,3'
+
+5.) The (current) test harness is based on legacy (experimental) software that doesn't always embody
+modern best practice software coding techniques, particularly with regard to mitigating SQL Injection 
+type vulnerabilities. Users of the test harness should consider how they can configure their set-up 
+of the test harness and associated hardware to minimise the potential of SQL Injection attacks, for 
+example, running on a closed network with trusted users.
+
 ## License
 Except where noted otherwise, the SAPIENT Middleware and Test Harness software is licensed under the Apache License, Version 2.0. Please see [License](LICENSE.txt) for details.
 
