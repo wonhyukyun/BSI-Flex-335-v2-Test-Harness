@@ -61,7 +61,7 @@ be an issue that affected legacy versions of the software and has not been fixed
 affected legacy versions of the software and has not been fixed in this release.
 
 4.) The test harness should be run computers with an English (UK / US) locale. The formatting of 
-numbers when the test harness is run non-English locales may result in errors, for example '0.3' 
+numbers when the test harness is run on non-English locales may result in errors, for example '0.3' 
 could get formatted as '0,3'
 
 5.) The (current) test harness is based on legacy (experimental) software that doesn't always embody
