@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "vmensxDSiB8=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\SapientServicesValidator.UnitTests\\SapientServicesValidator.UnitTests.csproj",
+      "targetGraphs": []
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "dgSpecHash": "HUijQ8Pfn1k=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "targetGraphs": []
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Users\\lignex1\\Desktop\\nuget' doesn't exist.",
+      "projectPath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "filePath": "C:\\Users\\lignex1\\Desktop\\sapient\\BSI-Flex-335-v2-Test-Harness\\ReadSampleSapientMessage\\ReadSampleSapientMessage.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
